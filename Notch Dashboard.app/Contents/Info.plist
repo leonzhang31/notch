@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+    <key>CFBundleName</key><string>Notch Dashboard</string>
+    <key>CFBundleDisplayName</key><string>Notch Dashboard</string>
+    <key>CFBundleIdentifier</key><string>local.notchdashboard.app</string>
+    <key>CFBundleVersion</key><string>4</string>
+    <key>CFBundleShortVersionString</key><string>0.4.0</string>
+    <key>CFBundleExecutable</key><string>NotchDashboard</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>LSMinimumSystemVersion</key><string>14.0</string>
+    <key>LSUIElement</key><true/>
+    <key>NSHighResolutionCapable</key><true/>
+    <key>NSAppleEventsUsageDescription</key><string>Control your selected music player and redirect social media tabs in Google Chrome while your focus timer runs.</string>
+</dict></plist>
